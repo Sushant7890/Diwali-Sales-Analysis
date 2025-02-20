@@ -8,7 +8,7 @@ The dataset, titled "Diwali Sales Data," consists of 11,251 entries across 15 co
 To ensure data integrity and relevance, the 'Status' and 'unnamed1' columns were removed due to irrelevance or missing values. Additionally, records with null values in the 'Amount' column were eliminated. Data types were standardized, with the 'Amount' column converted to an integer format for consistency in numerical analysis.
 
 ## Exploratory Data Analysis (EDA)
-###Gender Analysis
+##Gender Analysis
 
 A bar chart was plotted to visualize the distribution of purchases based on gender. The analysis revealed that the majority of buyers were female, and their purchasing power exceeded that of male customers.
 ![image](https://github.com/user-attachments/assets/ff867a30-52cd-4124-869b-f3b3cb6d477d)
